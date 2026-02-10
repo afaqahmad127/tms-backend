@@ -1,4 +1,4 @@
-### TMS Backend - GraphQL API
+## TMS Backend - GraphQL API
 
 A robust Transportation Management System backend built with Node.js, Express, Apollo Server (GraphQL), and MongoDB.
 
